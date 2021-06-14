@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    text-align: center;
+    display: block;
+    line-height: 15px;
+}
+
+h2{
+    font-size: small;
+    text-align: left;
+    background-color: black;
+    color:blanchedalmond;
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    display: inline-block;
+    color:chartreuse;
+
+}
